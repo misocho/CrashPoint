@@ -1,0 +1,74 @@
+{
+    "users": [
+        {
+            "firstName": "Brian",
+            "secondName": "Misocho",
+            "idNo": "34836710",
+            "gender": "male",
+            "phoneNumber": "+254798734967",
+            "email": "misochobrian@gmail.com",
+            "password": "scorpion"
+        },
+        {
+            "firstName": "Jackie",
+            "secondName": "Mumbi",
+            "idNo": "348576923",
+            "gender": "female",
+            "phoneNumber": "+25472654786",
+            "email": "jackie@gmail.com",
+            "password": "jackiemumbi12"
+        },
+        {
+            "firstName": "Ben",
+            "secondName": "Karanja",
+            "idNo": "34128394",
+            "gender": "male",
+            "phoneNumber": "+25472348576",
+            "email": "karanja@gmail.com",
+            "password": "benkaranja12"
+        },
+        {
+            "firstName": "Michelle",
+            "secondName": "Ndambuki",
+            "idNo": "126374995",
+            "gender": "female",
+            "phoneNumber": "+254789472839",
+            "email": "ndambuki@gmail.com",
+            "password": "michelle13"
+        }
+    ],
+
+    "Hostels":[
+        {
+            "hostelName": "Stay Okay Hostels",
+            "hostelLocation": "Kisii",
+            "numberOfRooms": 20,
+            "roomsAvailable": 5,
+            "personsPerRoom": [1,2,4],
+            "Amenities":["Free wifi", "Hot shower", "Cable TV", "Communal Kitechen","Recreation Center" ], 
+            "Paymentmode": "monthly",
+            "Price": [15000, 8000, 5000],
+            "image": "C:\\Users\\misoc\\Desktop\\crashPoint\\crash_point\\JSONdata\\roomImage.jpg"
+        },
+        {
+            "hostelName": "Vichmas Hostels",
+            "hostelLocation": "Kisii",
+            "numberOfRooms": 15,
+            "roomsAvailable": 2,
+            "personsPerRoom": 2,
+            "Amenities":["Bed n Breakfast","Free wifi","Hotel", "Hot shower"],
+            "Paymentmode": "semester",
+            "Price": 10500
+        },
+        {
+            "hostelName": "Townsville Hostels",
+            "hostelLocation": "Nairobi",
+            "numberOfRooms": 30,
+            "roomsAvailable": 12,
+            "personsPerRoom": 2,
+            "Amenities": ["Recreation Center", "Borehole", "Paid wifi", "Hotel"],
+            "Paymentmode": "semester",
+            "Price": 10000
+        }
+    ]
+}
