@@ -1,2 +1,2 @@
 # CrashPoint
-Moblie App UI for Hosting Student Hostels
+Flutter and dart Android App UI for Hosting Student Hostels
